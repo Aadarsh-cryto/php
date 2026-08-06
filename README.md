@@ -1,1 +1,54 @@
-An array in PHP is a versatile structure used to store multiple values within a single variable. It functions as an ordered map, binding values to either numeric indices or named string keys. You can easily create them using square brackets ($data = []) and loop through them using foreach. PHP also includes dozens of built-in functions to effortlessly sort, merge, filter, and count your array elements.
+# PHP Learning Repository
+
+This repository contains my PHP learning journey, including fundamental concepts, Object-Oriented Programming (OOP), and practical examples.
+
+## 📚 Topics Covered
+
+* PHP Basics
+* Variables & Data Types
+* Operators
+* Conditional Statements
+* Loops
+* Functions
+* Arrays & Associative Arrays
+* Superglobals
+* Form Handling
+* Object-Oriented Programming (OOP)
+* Constructors & Destructors
+* Access Modifiers
+* Inheritance
+* Polymorphism
+* Abstraction
+* Encapsulation
+* Error Handling
+* File Handling
+* MySQL Integration
+* CRUD Operations (Upcoming)
+* Laravel (Upcoming)
+
+## 🛠️ Tech Stack
+
+* PHP
+* MySQL
+* XAMPP
+* VS Code
+
+## 🎯 Purpose
+
+The goal of this repository is to strengthen my PHP fundamentals and backend development skills by building practical examples and mini projects.
+
+## 🚀 Future Updates
+
+* Authentication System
+* CRUD Project
+* REST APIs
+* Laravel Projects
+* Deployment
+
+## 🤝 Contributions
+
+Suggestions and improvements are always welcome.
+
+---
+
+⭐ If you find this repository helpful, feel free to star it.
